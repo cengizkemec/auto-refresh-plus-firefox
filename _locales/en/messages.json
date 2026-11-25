@@ -1,0 +1,178 @@
+{
+  "extensionName": {
+    "message": "Auto Refresh Plus (Firefox)",
+    "description": "Add-on name."
+  },
+  "extensionDescription": {
+    "message": "Automatically refresh any tab at your chosen interval, with a countdown badge, quick presets, random timing and cache bypass.",
+    "description": "Add-on description."
+  },
+  "commandToggleDescription": {
+    "message": "Start / stop auto refresh"
+  },
+  "statusOn": {
+    "message": "On"
+  },
+  "statusOff": {
+    "message": "Off"
+  },
+  "statusAria": {
+    "message": "Refresh status"
+  },
+  "settingsLegend": {
+    "message": "Refresh settings"
+  },
+  "tabFallback": {
+    "message": "This tab"
+  },
+  "statusTitleOff": {
+    "message": "Auto refresh is off"
+  },
+  "statusSubOff": {
+    "message": "Choose an interval and press start."
+  },
+  "statusSubRestricted": {
+    "message": "Auto refresh is not available on this type of page."
+  },
+  "unavailableTitle": {
+    "message": "Unavailable"
+  },
+  "unavailableSub": {
+    "message": "No active tab found."
+  },
+  "ringReady": {
+    "message": "ready"
+  },
+  "ringRemaining": {
+    "message": "left"
+  },
+  "intervalLabel": {
+    "message": "Refresh interval"
+  },
+  "intervalUnit": {
+    "message": "seconds"
+  },
+  "unitSecondsShort": {
+    "message": "s"
+  },
+  "presetsAria": {
+    "message": "Quick presets"
+  },
+  "randomTitle": {
+    "message": "Random interval"
+  },
+  "randomDescription": {
+    "message": "Pick a random delay before each refresh"
+  },
+  "minLabel": {
+    "message": "Min"
+  },
+  "maxLabel": {
+    "message": "Max"
+  },
+  "bypassCacheLabel": {
+    "message": "Bypass cache (hard refresh)"
+  },
+  "startButton": {
+    "message": "Start"
+  },
+  "stopButton": {
+    "message": "Stop"
+  },
+  "refreshNowButton": {
+    "message": "Refresh now"
+  },
+  "footerScope": {
+    "message": "Applies to this tab only"
+  },
+  "statusEvery": {
+    "message": "Refreshing every $1"
+  },
+  "statusRandom": {
+    "message": "Random interval $1-$2 s"
+  },
+  "nextRefresh": {
+    "message": "Next refresh: $1"
+  },
+  "refreshingNow": {
+    "message": "Refreshing…"
+  },
+  "reloadsCount": {
+    "message": "Refreshed $1 times"
+  },
+  "reloadsCountOne": {
+    "message": "Refreshed once"
+  },
+  "neverRefreshed": {
+    "message": "Not refreshed yet"
+  },
+  "errorInvalidInterval": {
+    "message": "Interval must be between 1 and 86400 seconds."
+  },
+  "errorInvalidRandomRange": {
+    "message": "Random interval must be between 1 and 86400 seconds."
+  },
+  "errorMinGreater": {
+    "message": "The minimum delay cannot be greater than the maximum."
+  },
+  "errorNoBackground": {
+    "message": "Could not reach the extension background. Reload the tab and try again."
+  },
+  "errorCannotStart": {
+    "message": "Auto refresh could not be started."
+  },
+  "errorCannotStop": {
+    "message": "Auto refresh could not be stopped."
+  },
+  "errorRefreshRequest": {
+    "message": "The refresh request could not be sent."
+  },
+  "errorUnexpected": {
+    "message": "Something went wrong."
+  },
+  "errorInvalidTab": {
+    "message": "Invalid tab."
+  },
+  "errorRestrictedPage": {
+    "message": "This type of page cannot be refreshed automatically."
+  },
+  "errorTabNotFound": {
+    "message": "Tab not found."
+  },
+  "errorReloadFailed": {
+    "message": "This tab could not be refreshed."
+  },
+  "titleRefreshingEvery": {
+    "message": "Auto Refresh Plus — refreshing every $1"
+  },
+  "titleRandom": {
+    "message": "Auto Refresh Plus — random interval $1-$2 s"
+  },
+  "titleFailed": {
+    "message": "Auto Refresh Plus — refresh failed"
+  },
+  "menuToggle": {
+    "message": "Start / stop auto refresh"
+  },
+  "menuRefreshNow": {
+    "message": "Refresh now"
+  },
+  "menuStartWith": {
+    "message": "Start with interval"
+  },
+  "durationSeconds": {
+    "message": "$1 s"
+  },
+  "durationMinutes": {
+    "message": "$1 min"
+  },
+  "durationMinutesSeconds": {
+    "message": "$1 min $2 s"
+  },
+  "durationHours": {
+    "message": "$1 h"
+  },
+  "durationHoursMinutes": {
+    "message": "$1 h $2 min"
+  }
+}

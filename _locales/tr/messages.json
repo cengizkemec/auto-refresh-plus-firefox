@@ -1,0 +1,178 @@
+{
+  "extensionName": {
+    "message": "Auto Refresh Plus (Firefox)",
+    "description": "Eklenti adı."
+  },
+  "extensionDescription": {
+    "message": "Herhangi bir sekmeyi seçtiğiniz aralıkla otomatik yeniler. Geri sayım rozeti, hazır aralıklar, rastgele süre ve önbelleği atlama desteği.",
+    "description": "Eklenti açıklaması."
+  },
+  "commandToggleDescription": {
+    "message": "Otomatik yenilemeyi başlat / durdur"
+  },
+  "statusOn": {
+    "message": "Açık"
+  },
+  "statusOff": {
+    "message": "Kapalı"
+  },
+  "statusAria": {
+    "message": "Yenileme durumu"
+  },
+  "settingsLegend": {
+    "message": "Yenileme ayarları"
+  },
+  "tabFallback": {
+    "message": "Bu sekme"
+  },
+  "statusTitleOff": {
+    "message": "Otomatik yenileme kapalı"
+  },
+  "statusSubOff": {
+    "message": "Bir aralık seçip başlatın."
+  },
+  "statusSubRestricted": {
+    "message": "Bu sayfa türünde otomatik yenileme kullanılamaz."
+  },
+  "unavailableTitle": {
+    "message": "Kullanılamıyor"
+  },
+  "unavailableSub": {
+    "message": "Etkin sekme bulunamadı."
+  },
+  "ringReady": {
+    "message": "hazır"
+  },
+  "ringRemaining": {
+    "message": "kaldı"
+  },
+  "intervalLabel": {
+    "message": "Yenileme aralığı"
+  },
+  "intervalUnit": {
+    "message": "saniye"
+  },
+  "unitSecondsShort": {
+    "message": "sn"
+  },
+  "presetsAria": {
+    "message": "Hazır aralıklar"
+  },
+  "randomTitle": {
+    "message": "Rastgele aralık"
+  },
+  "randomDescription": {
+    "message": "Her yenilemede rastgele bir süre seç"
+  },
+  "minLabel": {
+    "message": "En az"
+  },
+  "maxLabel": {
+    "message": "En çok"
+  },
+  "bypassCacheLabel": {
+    "message": "Önbelleği atla (sert yenileme)"
+  },
+  "startButton": {
+    "message": "Başlat"
+  },
+  "stopButton": {
+    "message": "Durdur"
+  },
+  "refreshNowButton": {
+    "message": "Şimdi yenile"
+  },
+  "footerScope": {
+    "message": "Yalnızca bu sekme için geçerli"
+  },
+  "statusEvery": {
+    "message": "Her $1 yenileniyor"
+  },
+  "statusRandom": {
+    "message": "Rastgele $1-$2 sn aralığında"
+  },
+  "nextRefresh": {
+    "message": "Sonraki yenileme: $1"
+  },
+  "refreshingNow": {
+    "message": "Yenileniyor…"
+  },
+  "reloadsCount": {
+    "message": "$1 kez yenilendi"
+  },
+  "reloadsCountOne": {
+    "message": "1 kez yenilendi"
+  },
+  "neverRefreshed": {
+    "message": "Henüz yenilenmedi"
+  },
+  "errorInvalidInterval": {
+    "message": "Aralık 1 ile 86400 saniye arasında olmalı."
+  },
+  "errorInvalidRandomRange": {
+    "message": "Rastgele aralık 1 ile 86400 saniye arasında olmalı."
+  },
+  "errorMinGreater": {
+    "message": "En az süre, en çok süreden büyük olamaz."
+  },
+  "errorNoBackground": {
+    "message": "Eklentinin arka planına ulaşılamadı. Sekmeyi yenileyip tekrar deneyin."
+  },
+  "errorCannotStart": {
+    "message": "Otomatik yenileme başlatılamadı."
+  },
+  "errorCannotStop": {
+    "message": "Otomatik yenileme durdurulamadı."
+  },
+  "errorRefreshRequest": {
+    "message": "Yenileme isteği gönderilemedi."
+  },
+  "errorUnexpected": {
+    "message": "Beklenmeyen bir hata oluştu."
+  },
+  "errorInvalidTab": {
+    "message": "Geçersiz sekme."
+  },
+  "errorRestrictedPage": {
+    "message": "Bu tür bir sayfa otomatik yenilenemez."
+  },
+  "errorTabNotFound": {
+    "message": "Sekme bulunamadı."
+  },
+  "errorReloadFailed": {
+    "message": "Bu sekmede yenileme yapılamadı."
+  },
+  "titleRefreshingEvery": {
+    "message": "Auto Refresh Plus — her $1 yenileniyor"
+  },
+  "titleRandom": {
+    "message": "Auto Refresh Plus — $1-$2 sn arası rastgele yenileniyor"
+  },
+  "titleFailed": {
+    "message": "Auto Refresh Plus — yenileme başarısız"
+  },
+  "menuToggle": {
+    "message": "Otomatik yenilemeyi başlat / durdur"
+  },
+  "menuRefreshNow": {
+    "message": "Şimdi yenile"
+  },
+  "menuStartWith": {
+    "message": "Aralıkla başlat"
+  },
+  "durationSeconds": {
+    "message": "$1 sn"
+  },
+  "durationMinutes": {
+    "message": "$1 dk"
+  },
+  "durationMinutesSeconds": {
+    "message": "$1 dk $2 sn"
+  },
+  "durationHours": {
+    "message": "$1 sa"
+  },
+  "durationHoursMinutes": {
+    "message": "$1 sa $2 dk"
+  }
+}
